@@ -42,8 +42,7 @@ Kullanıcı dostu bir arayüz ile **öğrenci kayıt işlemleri, not takibi, ara
 
 ## 🖼️ Ekran Görüntüleri
 
-#XAMPP
-
+### XAMPP
 ![XAMPP](https://github.com/hvlsngnr/Student-Management-System/blob/main/screenshots/1.png)
 
 ### Giriş
@@ -52,13 +51,14 @@ Kullanıcı dostu bir arayüz ile **öğrenci kayıt işlemleri, not takibi, ara
 ### Ana Sayfa
 ![Ana Sayfa](https://github.com/hvlsngnr/Student-Management-System/blob/main/screenshots/3.png)
 
-### Ogrenci Ekle
-![Öğrenci Ekle1](https://github.com/hvlsngnr/Student-Management-System/blob/main/screenshots/4.png)
-![Öğrenci Ekle2](https://github.com/hvlsngnr/Student-Management-System/blob/main/screenshots/5.png)
+### Öğrenci Ekle
+![Öğrenci Ekle 1](https://github.com/hvlsngnr/Student-Management-System/blob/main/screenshots/4.png)  
+![Öğrenci Ekle 2](https://github.com/hvlsngnr/Student-Management-System/blob/main/screenshots/5.png)
 
-### Ogrenci Sil
-![Öğrenci Sil1](https://github.com/hvlsngnr/Student-Management-System/blob/main/screenshots/6.png)
-![Öğrenci Sil2](https://github.com/hvlsngnr/Student-Management-System/blob/main/screenshots/7.png)
+### Öğrenci Sil
+![Öğrenci Sil 1](https://github.com/hvlsngnr/Student-Management-System/blob/main/screenshots/6.png)  
+![Öğrenci Sil 2](https://github.com/hvlsngnr/Student-Management-System/blob/main/screenshots/7.png)
 
-### Notlari Ekle
-![Notlari Ekle](https://github.com/hvlsngnr/Student-Management-System/blob/main/screenshots/8.png)
+### Notları Ekle
+![Notları Ekle](https://github.com/hvlsngnr/Student-Management-System/blob/main/screenshots/8.png)
+
