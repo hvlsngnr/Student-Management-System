@@ -42,7 +42,7 @@ Kullanıcı dostu bir arayüz ile **öğrenci kayıt işlemleri, not takibi, ara
 
 ## 🖼️ Ekran Görüntüleri
 
-#XAMPP
+###XAMPP
 ![XAMPP](https://github.com/hvlsngnr/Student-Management-System/blob/main/screenshots/1.png)
 
 ### Giriş
