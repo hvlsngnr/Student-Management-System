@@ -52,8 +52,12 @@ Kullanıcı dostu bir arayüz ile **öğrenci kayıt işlemleri, not takibi, ara
 ![Ana Sayfa](https://github.com/hvlsngnr/Student-Management-System/blob/main/screenshots/3.png)
 
 ### Öğrenci Ekle
-![Öğrenci Ekle 1](https://github.com/hvlsngnr/Student-Management-System/blob/main/screenshots/4.png)  
-![Öğrenci Ekle 2](https://github.com/hvlsngnr/Student-Management-System/blob/main/screenshots/5.png)
+
+<p align="center">
+  <img src="https://github.com/hvlsngnr/Student-Management-System/blob/main/screenshots/4.png" alt="Öğrenci Ekle 1" width="45%"/>
+  <img src="https://github.com/hvlsngnr/Student-Management-System/blob/main/screenshots/5.png" alt="Öğrenci Ekle 2" width="45%"/>
+</p>
+
 
 ### Öğrenci Sil
 ![Öğrenci Sil 1](https://github.com/hvlsngnr/Student-Management-System/blob/main/screenshots/6.png)  
